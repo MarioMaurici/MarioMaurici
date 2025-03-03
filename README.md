@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá!! Me chamo Mario Maurici
 
-<!--
-**MarioMaurici/MarioMaurici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Hoje Trabalho com Genexus
+- 📖 Atualmente Estudando Javascript
+- 📫 Entre em contato por: mariomaurici36@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/mariomaurici">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariomaurici&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaurici&layout=compact&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style ="display: inline_block">
+  <br>
+  <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+</div>
+<hr>
+
+### Minhas Redes
+
+<div>
+  <a href="https://www.instagram.com/gdsm_mario"><img align="center" heigth="100" width="140" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
