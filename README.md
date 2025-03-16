@@ -1,5 +1,6 @@
 # Olá!! Me chamo Mario Maurici
 
+- 🥸 Possuo Atualmente 20 anos
 - 💼 Hoje Trabalho com Genexus
 - 📖 Atualmente Estudando Javascript
 - 📫 Entre em contato por: mariomaurici36@gmail.com
