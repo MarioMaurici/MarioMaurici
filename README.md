@@ -1,9 +1,9 @@
-# Olá!! Me chamo Mario Maurici
+# Hello!! My name's Mario!! I'm from Brazil. 
 
-- 🥸 Possuo Atualmente 20 anos
-- 💼 Hoje Trabalho com Genexus
-- 📖 Atualmente Estudando Javascript
-- 📫 Entre em contato por: mariomaurici36@gmail.com
+- 🥸 I'm 20 years old;
+- 💼 Work with GeneXus;
+- 📖 I'm studying JavasCript;
+- 📫 Contact me: mariomaurici36@gmail.com
 
 <div>
   <a href="https://github.com/mariomaurici">
