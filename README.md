@@ -2,7 +2,7 @@
 
 - 🥸 I'm 20 years old;
 - 💼 Work with GeneXus;
-- 📖 I'm studying JavasCript;
+- 📖 I'm studying Javas from Alura;
 - 📫 Contact me: mariomaurici36@gmail.com
 
 <div>
