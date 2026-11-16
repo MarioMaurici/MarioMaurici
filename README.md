@@ -30,21 +30,6 @@ Sou desenvolvedor de software com experiência profissional em **GeneXus** e foc
 
 `REST APIs` · `TypeORM` · `Class Validator` · `Bcrypt`
 
-### Qualidade, testes e desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,git,github,npm,webpack,babel,postman,vscode" alt="Jest, Git, GitHub, npm, Webpack, Babel, Postman e VS Code" />
-</p>
-
-`ESLint` · `Prettier` · `Supertest` · `GeneXus`
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarioMaurici&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Mario Maurici" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMaurici&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Mario Maurici" />
-</div>
-
 ## Vamos nos conectar
 
 <p>
