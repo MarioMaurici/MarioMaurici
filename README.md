@@ -28,8 +28,6 @@ Sou desenvolvedor de software com experiência profissional em **GeneXus** e foc
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" alt="Node.js, NestJS e PostgreSQL" />
 </p>
 
-`REST APIs` · `TypeORM` · `Class Validator` · `Bcrypt`
-
 ## Vamos nos conectar
 
 <p>
