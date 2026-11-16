@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/113912317?v=4" width="120" alt="Foto de perfil de Mario Maurici" />
-
-  # Olá, eu sou o Mario! 👋
-
-  **Desenvolvedor de software | Full Stack em formação**
-
-  Santa Catarina, Brasil 🇧🇷 · Atualmente na Siscobra Sistemas
-</div>
-
 ## Sobre mim
 
 Sou desenvolvedor de software com experiência profissional em **GeneXus** e foco atual no ecossistema **JavaScript/TypeScript**. Venho construindo aplicações full stack, APIs REST e interfaces responsivas enquanto aprofundo meus conhecimentos em **React, Next.js, Node.js, NestJS e PostgreSQL**.
@@ -47,14 +37,6 @@ Sou desenvolvedor de software com experiência profissional em **GeneXus** e foc
 </p>
 
 `ESLint` · `Prettier` · `Supertest` · `GeneXus`
-
-## Projetos em destaque
-
-- [Conceitos NestJS](https://github.com/MarioMaurici/conceitos_nestjs) — API back-end com NestJS, TypeScript, TypeORM, PostgreSQL, validação, autenticação de senhas e testes.
-- [Pomar Tangerina](https://github.com/MarioMaurici/pomar-tangerina) — aplicação web com Next.js, React, TypeScript e Tailwind CSS.
-- [React Todo List](https://github.com/MarioMaurici/react-todo-list-projeto-inicial) — lista de tarefas construída com React e Vite.
-- [Aprendendo React](https://github.com/MarioMaurici/aprendendo-react) — estudos e componentes práticos usando React 19.
-- [OneBitCode](https://github.com/MarioMaurici/OneBitCODE) — exercícios de JavaScript, HTML e CSS, incluindo npm, Babel e Webpack.
 
 ## Estatísticas do GitHub
 
